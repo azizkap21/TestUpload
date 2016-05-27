@@ -1,0 +1,4 @@
+D:\Aziz\Projects\TestAsyncWeb\TestAsyncWeb.Core\bin\Debug\TestAsyncWeb.Core.dll
+D:\Aziz\Projects\TestAsyncWeb\TestAsyncWeb.Core\bin\Debug\TestAsyncWeb.Core.pdb
+D:\Aziz\Projects\TestAsyncWeb\TestAsyncWeb.Core\obj\Debug\TestAsyncWeb.Core.dll
+D:\Aziz\Projects\TestAsyncWeb\TestAsyncWeb.Core\obj\Debug\TestAsyncWeb.Core.pdb
